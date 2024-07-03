@@ -1,10 +1,9 @@
 package com.YS.BlokingServer.controller;
 
 import com.YS.BlokingServer.entities.Post;
-import com.YS.BlokingServer.service.PostService;
+import com.YS.BlokingServer.service.Post.PostService;
 import jakarta.persistence.EntityNotFoundException;
 import org.springframework.http.HttpStatus;
-import org.springframework.http.HttpStatusCode;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

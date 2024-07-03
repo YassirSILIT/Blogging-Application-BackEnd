@@ -1,4 +1,4 @@
-package com.YS.BlokingServer.service;
+package com.YS.BlokingServer.service.Comment;
 
 import com.YS.BlokingServer.entities.Comment;
 

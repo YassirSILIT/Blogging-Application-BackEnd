@@ -1,7 +1,7 @@
 package com.YS.BlokingServer.controller;
 
 
-import com.YS.BlokingServer.service.CommentService;
+import com.YS.BlokingServer.service.Comment.CommentService;
 import jakarta.persistence.EntityNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package com.YS.BlokingServer.service;
+package com.YS.BlokingServer.service.Post;
 
 import com.YS.BlokingServer.entities.Post;
 
